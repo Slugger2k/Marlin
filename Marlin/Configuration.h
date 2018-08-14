@@ -616,7 +616,7 @@
  * Slugger CTC i3 PRO B mod
  *                                      X, Y, Z, E0 [, E1[, E2[, E3[, E4]]]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 79.91, 79.55, 2580, 95 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 79.91, 79.55, 2560, 95 }
 
 /**
  * Default Max Feed Rate (mm/s)
@@ -878,7 +878,7 @@
 // @section extruder
 
 // For direct drive extruder v9 set to true, for geared extruder set to false.
-#define INVERT_E0_DIR false
+#define INVERT_E0_DIR true
 #define INVERT_E1_DIR false
 #define INVERT_E2_DIR false
 #define INVERT_E3_DIR false
