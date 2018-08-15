@@ -145,3 +145,4 @@ void Max7219_idle_tasks();
 extern uint8_t LEDs[8 * MAX7219_NUMBER_UNITS];
 
 #endif // __MAX7219_DEBUG_LEDS_H__
+

@@ -2404,3 +2404,4 @@ void Temperature::isr() {
   #endif // AUTO_REPORT_TEMPERATURES
 
 #endif // HAS_TEMP_SENSOR
+

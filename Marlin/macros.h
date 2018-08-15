@@ -232,3 +232,4 @@
 #define HYPOT(x,y)  SQRT(HYPOT2(x,y))
 
 #endif // MACROS_H
+

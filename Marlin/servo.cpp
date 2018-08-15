@@ -320,3 +320,4 @@ void Servo::move(const int value) {
 }
 
 #endif // HAS_SERVOS
+

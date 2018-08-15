@@ -738,3 +738,4 @@
 #if !USE_MARLINSERIAL && ENABLED(BLUETOOTH)
   HardwareSerial bluetoothSerial;
 #endif
+

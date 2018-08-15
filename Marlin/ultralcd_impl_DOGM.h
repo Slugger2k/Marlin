@@ -720,3 +720,4 @@ void lcd_implementation_clear() { } // Automatically cleared by Picture Loop
 #endif // ULTIPANEL
 
 #endif // __ULTRALCD_IMPL_DOGM_H
+

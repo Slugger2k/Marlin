@@ -182,3 +182,4 @@
 #endif
 
 #endif // _MARLINSERIAL_H_
+

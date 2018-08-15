@@ -516,3 +516,4 @@
 #define USE_MARLINSERIAL !(defined(__AVR__) && defined(USBCON))
 
 #endif // CONDITIONALS_LCD_H
+

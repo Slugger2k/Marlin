@@ -276,3 +276,4 @@ static_assert(HEATER_0_TEMPTABLE_LEN < 256 && HEATER_1_TEMPTABLE_LEN < 256 && HE
 #endif
 
 #endif // THERMISTORTABLES_H_
+

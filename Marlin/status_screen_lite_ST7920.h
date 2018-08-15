@@ -962,3 +962,4 @@ static void lcd_in_status(const bool inStatus) {
   else
     ST7920_Lite_Status_Screen::on_exit();
 }
+

@@ -171,3 +171,4 @@
 #define MSG_DELTA_CALIBRATE_CENTER          _UxGT("Kalibroi Center")
 
 #endif // LANGUAGE_FI_H
+

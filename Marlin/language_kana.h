@@ -338,3 +338,4 @@
 #endif // LCD_HEIGHT < 4
 
 #endif // LANGUAGE_KANA_H
+

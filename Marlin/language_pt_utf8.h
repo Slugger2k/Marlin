@@ -188,3 +188,4 @@
 #define MSG_LCD_ENDSTOPS                    _UxGT("Fim de curso")
 
 #endif // LANGUAGE_PT_UTF_H
+

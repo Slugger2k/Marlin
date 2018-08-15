@@ -251,3 +251,4 @@
 #endif // LCD_HEIGHT < 4
 
 #endif  // LANGUAGE_PL_DOGM_H
+

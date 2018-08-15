@@ -105,3 +105,4 @@ void Power::power_off() {
 }
 
 #endif // AUTO_POWER_CONTROL
+

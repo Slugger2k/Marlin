@@ -273,3 +273,4 @@
 #define MSG_FILAMENT_CHANGE_HEATING_2       _UxGT("Espere por favor")
 
 #endif // LANGUAGE_ES_UTF_H
+

@@ -380,3 +380,4 @@
 #endif
 
 #endif // LANGUAGE_PT_BR_H
+
